@@ -5,7 +5,6 @@ edition = "2021"
 description = "A collection of functions I find useful for my projects"
 repository = "https://github.com/ThomasSaunders/TS_Lib"
 license = "GPL-3"
-license-file = "LICENCE"
 homepage = "https://github.com/ThomasSaunders/TS_Lib"
 readme = "readme.md"
 
